@@ -50,5 +50,5 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singh-odyssey&show_icons=true&locale=en&theme=dark" alt="singh-odyssey" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singh-odyssey&theme=dark" alt="singh-odyssey" /></p>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=singh-odyssey&theme=dark" alt="singh-odyssey" /></p>
 
