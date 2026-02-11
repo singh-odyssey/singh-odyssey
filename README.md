@@ -45,13 +45,16 @@
 </div>
 <br><br>    
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=singh-odyssey&show_icons=true&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=singh-odyssey&layout=compact&theme=dark&hide_border=true" height="165" />
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=singh-odyssey&show_icons=true&locale=en&layout=compact&theme=dark" alt="singh-odyssey" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singh-odyssey&show_icons=true&locale=en&theme=dark" alt="singh-odyssey" /></p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=singh-odyssey&theme=dark" alt="GitHub Streak" />
 </p>
+
+
 
 ![ activity graph](https://github-readme-activity-graph.vercel.app/graph?username=singh-odyssey&theme=react-dark)
