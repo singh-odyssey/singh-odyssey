@@ -1,11 +1,11 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<img width="1024" height="204" alt="image" src="https://github.com/user-attachments/assets/b8453dd1-aeab-47dc-9d5f-e90bb1aca379" />
 
 <br><br>
-
- <h1 align="center"><a href="https://git.io/typing-svg">
-   	 <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=30&duration=3000&pause=50&color=1AF71F&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+This+is+Aditya+Singh.;Software+Developer;By+Default." alt="Typing SVG" />
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=30&duration=3000&pause=50&color=1AF71F&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+This+is+Aditya+Singh.;AI/ML+Architect;By+Default." alt="Typing SVG" />
   </a>
- </h1>
+</h1>
 <br>
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine learning**<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350" align="right">
@@ -47,7 +47,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=singh-odyssey&show_icons=true&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=singh-odyssey&layout=compact&theme=dark&hide_border=true" height="165" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=singh-odyssey&layout=compact&theme=dark&hide_border=true&langs_count=10" height="165" />
 </p>
 
 
