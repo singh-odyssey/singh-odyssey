@@ -1,4 +1,8 @@
-<img width="1024" height="204" alt="image" src="https://github.com/user-attachments/assets/b8453dd1-aeab-47dc-9d5f-e90bb1aca379" />
+<img width="1024" height="204" alt="image" src="https://github.com/user-attachments/assets/60b3c2df-d99b-413d-93c0-a7c9d80ad300" />
+
+<!-- <img width="1024" height="204" alt="image" src="https://github.com/user-attachments/assets/4ccdbb4b-3fe7-4145-9c6e-6cdcdb9e01d3" />
+
+<img width="1024" height="204" alt="image" src="https://github.com/user-attachments/assets/1ff3f0ff-0980-4a79-94f9-4ee7d75d2dd1" /> -->
 
 <br><br>
 <h1 align="center">
@@ -8,7 +12,7 @@
 </h1>
 <br>
 
-- 🌱 I’m currently learning **Artificial Intelligence & Machine learning**<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350" align="right">
+- 🌱 I’m currently learning **Artificial Intelligence & Machine learning**<img src="https://github.com/user-attachments/assets/df631917-e94a-4ca2-be80-0e64f774411a" width="395" align="right">
 <br><br>
 - I am a student learning new things ,pursuing bachelor's in Computer Science<br> Engineering with specialization of Artificial intelligence and Machine Learning.<br><br>
 - ⚡ Fun fact --- **You are reading this 😁**
@@ -28,20 +32,16 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3><br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,bash,aws,gcp,azure,discord,bots,github,idea,ai,linux,md,notion,opencv,pkl,postman,pycharm,py,pytorch,sklearn,tensorflow,vscode&perline=12" />
+  </a>
+</p>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
 </div>
 <br><br>    
 
