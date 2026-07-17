@@ -34,7 +34,7 @@
 <h3 align="left">Languages and Tools:</h3><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,bash,aws,gcp,azure,discord,bots,github,idea,ai,linux,md,notion,opencv,pkl,postman,pycharm,py,pytorch,sklearn,tensorflow,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,py,pytorch,git,kubernetes,docker,bash,aws,gcp,azure,discord,bots,github,idea,ai,linux,md,notion,opencv,pkl,postman,pycharm,vscode&perline=12" />
   </a>
 </p>
 
