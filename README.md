@@ -46,15 +46,16 @@
 <br><br>    
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=singh-odyssey&show_icons=true&theme=dark&hide_border=true" height="165" />
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=singh-odyssey&layout=compact&theme=dark&hide_border=true&langs_count=10" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=singh-odyssey&show_icons=true&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=singh-odyssey&layout=compact&theme=dark&hide_border=true&langs_count=10" height="165" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.vercel.app/?user=singh-odyssey&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=singh-odyssey&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singh-odyssey&theme=dracula&utcOffset=8" alt="GitHub Productive Time" />
 </p>
 
 
-
-![ activity graph](https://github-readme-activity-graph.vercel.app/graph?username=singh-odyssey&theme=react-dark)
